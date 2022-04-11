@@ -40,7 +40,7 @@ const format = {
 };
 
 const extraMetadata = {
-  external_url: "https://KillaroosBattalion.xyz", // Replace with your website or remove this line if you do not have one.
+  external_url: "https://https://symphonious-clafoutis-9bf141.netlify.app", // Replace with your website or remove this line if you do not have one.
 };
 
 // NFTPort Info
@@ -95,12 +95,12 @@ try {
 // END NFTPort Info
 
 const solanaMetadata = {
-  symbol: "YC",
+  symbol: "KRSNFT",
   seller_fee_basis_points: 1000, // Define how much % you want from secondary market sales 1000 = 10%
-  external_url: "https://www.youtube.com/c/hashlipsnft",
+  external_url: "https://https://symphonious-clafoutis-9bf141.netlify.app",
   creators: [
     {
-      address: "7fXNuer5sbZtaTEPhtJ5g5gNtuyRoKkvxdjEjEnPN4mC",
+      address: "0xfB7cF21c02304Fca25FbA6d3aE46E36F7e70094C",
       share: 100,
     },
   ],
